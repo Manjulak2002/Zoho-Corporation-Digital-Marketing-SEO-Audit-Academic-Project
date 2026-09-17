@@ -44,7 +44,7 @@ This presentation covers:
 
 ## 📁 Contents
 
-- `Zoho_Digital_Marketing_Presentation.pptx` – Full audit and strategy deck
+- [Zoho Digital Marketing Presentation](./Zoho_Digital_Marketing_Presentation.pptx) – Full audit and strategy deck
 
 ## 📋 Landing Page Case Study
 - Premium fragrance candle brand focused on confidence, attraction, and emotional experience — designed to connect deeply with its audience.
